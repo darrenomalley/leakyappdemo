@@ -1,0 +1,3 @@
+"AadClientId": "26c40725-c92d-4807-b4be-56fc99f46005",
+  "AadSecret": "VdD8Q~BZXZY7f3ncwjW.JFaKEYoXlzJvHdsmtccS",
+  
